@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @shadyashraf174
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-shadyashraf174/shadyashraf174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Shady Ashraf
+- 👀 I’m interested in Mobile
+- 🌱 I’m currently learning Android devepment
