@@ -30,7 +30,9 @@
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
-- I encourage you to take a look at my work on <a href="https://github.com/shadyashraf174/Todo_List">Todo List</a> <a href="https://github.com/shadyashraf174/rock_paper_scissore">Rock Paper Scissore</a> <a href="https://github.com/shadyashraf174/portfolio">Website</a>, where I have completed several design challenges to showcase my abilities.
+- I encourage you to take a look at my work on
+- <a href="https://github.com/shadyashraf174/Todo_List">Todo List</a> <a href="https://github.com/shadyashraf174/rock_paper_scissore">Rock Paper Scissore</a>
+<a href="https://github.com/shadyashraf174/portfolio">Website</a>, where I have completed several design challenges to showcase my abilities.
 
 - My ultimate goal is to create innovative and user-friendly Mobile Applications that provide real value to users.
 
