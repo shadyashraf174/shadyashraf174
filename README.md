@@ -70,13 +70,14 @@
 
 - **Softwares and Tools**:
 
+   Android Studio
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
     ![Archcraft](https://img.shields.io/badge/Archcraft-%23404d59?style=for-the-badge&logo=archlinux&logoColor=%#1793D1)&nbsp;
-   Android Studio
+
 
 <br>
 
@@ -85,25 +86,7 @@
 <br>
 <br>
 
------
 
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-[![shadyl shady's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![shadyl shady's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
-
-<br>
-<br>
-
------
 
 <br>
 <br>
