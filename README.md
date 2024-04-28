@@ -50,7 +50,7 @@
 
 - **Languages**:
 
-    ![Kotlin](https://user-images.githubusercontent.com/74132293/99877850-13a72580-2c27-11eb-8fb3-d1ebc7e6842d.png?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+    ![Kotlin]()&nbsp;
 
 
 <br>   
