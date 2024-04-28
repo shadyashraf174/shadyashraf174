@@ -38,8 +38,6 @@
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
-<br>
-
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="10"><b> Skills</b>
