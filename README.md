@@ -38,7 +38,7 @@
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"><br><br>
 
