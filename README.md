@@ -57,7 +57,7 @@
     
 - **Android Development**:
 
-   Jetpack Compose
+   Jetpack Compose, 
    XML
 
 <br>
