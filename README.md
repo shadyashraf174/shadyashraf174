@@ -50,15 +50,15 @@
 
 - **Languages**:
 
-    ![Kotlin]()&nbsp;
+    Kotlin
 
 
 <br>   
     
 - **Android Development**:
 
-   ![Jetpack Compose](?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-   ![XML](?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+   Jetpack Compose
+   XML
 
 <br>
 
@@ -76,8 +76,7 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
     ![Archcraft](https://img.shields.io/badge/Archcraft-%23404d59?style=for-the-badge&logo=archlinux&logoColor=%#1793D1)&nbsp;
-    ![Android Studio](?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  
+   Android Studio
 
 <br>
 
