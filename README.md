@@ -13,7 +13,7 @@
 ## <picture><img src = "https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
-  <source media="(max-width: 767px)" srcset="">
+  <source media="(max-width: 300px)" srcset="">
   <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
 </picture>
 
