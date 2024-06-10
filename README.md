@@ -67,8 +67,6 @@
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-    ![Archcraft](https://img.shields.io/badge/Archcraft-%23404d59?style=for-the-badge&logo=archlinux&logoColor=%#1793D1)&nbsp;
-
 
 <br>
 
