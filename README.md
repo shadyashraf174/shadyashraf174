@@ -82,10 +82,11 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
+t.me/Shadyashraf64
 
 </ul>
 </div>
