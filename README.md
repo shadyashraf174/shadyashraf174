@@ -1,24 +1,23 @@
 <h2 align="center"> 
-  Hi , I'm Shady Ashraf 
+  Hi, I'm Shady Ashraf 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Software+Developer;Software+Engineering+Student;Active+Learner/Researcher;Love+to+Learn+New+Things..<3">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<picture>
 
-  <source
+<picture align="center">
+  <source align="center"
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
-  <source
+  <source align="center"
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-  <img
+  <img align="center"
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
@@ -28,20 +27,15 @@
 
 <details>
   <summary><h5>🏆 Stats</h5></summary>
-<div align="center">
+  <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=shadyashraf174&theme=tokyonight&hide_border=false)  
+  ![](https://github-readme-stats.vercel.app/api?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=shadyashraf174&theme=tokyonight&hide_border=false)  
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=shadyashraf174&theme=tokyo-night)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/shadyyyo0ashraf?theme=auto&font=baloo&extension=null) 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=shadyashraf174&theme=tokyo-night)
-
-![LeetCode Stats](https://leetcode.card.workers.dev/shadyyyo0ashraf?theme=auto&font=baloo&extension=null) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
-
-</div>
-
+  </div>
 </details>
-
-
-
 
 <details>
   <summary><h5>😄 Random Joke</h5></summary>
@@ -52,7 +46,6 @@
   </div>
 </details>
 
-
 <details>
   <summary><h5>📜 Academics</h5></summary>
   <span>
@@ -62,7 +55,6 @@
   </span>
   <p>Currently pursuing a Bachelor's degree in Software Engineering at Tomsk State University, focusing on modern software development practices and technologies.</p>
 </details>
-
 
 <details>
   <summary><h5>💻 Languages I Use</h5></summary>
@@ -76,8 +68,6 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
   </div>
 </details>
-
-
 
 <details>
   <summary><h5>🚀 Projects</h5></summary>
@@ -104,15 +94,13 @@
   - Integrated efficient state management and ensured compatibility with modern Android versions.  
 </details>
 
-
-
 <details>
   <summary><h5>🛠️ Contact Me</h5></summary>
   <div align="center">
     <a href="https://t.me/Shadyashraf64">
       <img src="https://img.shields.io/badge/Telegram-Shadyashraf64-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
-     <a href="mailto:shadyyyo0ashraf@gmail.com">
+    <a href="mailto:shadyyyo0ashraf@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-shadyashraf174-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://linkedin.com/in/shady-ashraf-443510259">
@@ -120,5 +108,3 @@
     </a>
   </div>
 </details>
-
-
