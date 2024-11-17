@@ -9,7 +9,7 @@
 
 
 <details>
-  <summary><h4>🏆 Stats</h4></summary>
+  <summary><h5>🏆 Stats</h5></summary>
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=shadyashraf174&theme=tokyonight&hide_border=false)  
@@ -25,7 +25,7 @@
 
  
 <details>
-  <summary><h4>📜 Academics</h4></summary>
+  <summary><h5>📜 Academics</h5></summary>
  
 - **Degree:** Bachelor of Software Engineering  
 - **University:** Tomsk State University  
@@ -36,10 +36,36 @@
 </details>
 
 
+<details>
+  <summary><h5>🚀 Projects</h5></summary>
+
+  #### <a href="https://github.com/shadyashraf174/portfolio">Portfolio Website</a>
+  <span>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  </span>
+  - Built a responsive and visually appealing portfolio website using HTML, CSS, and JavaScript.  
+  - Highlights projects, skills, and achievements with an interactive design.  
+  - Features optimized performance and cross-browser compatibility.  
+
+  #### <a href="https://github.com/shadyashraf174/Todo_List">Todo List App</a>
+  <span>
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/MVVM-%23009C3F.svg?style=for-the-badge&logo=architecture&logoColor=white">
+  </span>
+  - Developed a Todo List app in Kotlin using Jetpack Compose for the UI.  
+  - Implemented MVVM architecture for clean code and maintainability.  
+  - Features include task creation, deletion, and real-time updates in the UI.  
+  - Integrated efficient state management and ensured compatibility with modern Android versions.  
+</details>
+
+
  
 
 <details>
-  <summary><h4>😄 Random Joke</h4></summary>
+  <summary><h5>😄 Random Joke</h5></summary>
   <div align="center">
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
@@ -48,7 +74,7 @@
 </details>
 
 <details>
-  <summary><h4>💻 Languages I Use</h4></summary>
+  <summary><h5>💻 Languages I Use</h5></summary>
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
@@ -63,7 +89,7 @@
 
 
 <details>
-  <summary><h4>🛠️ Contact Me</h4></summary>
+  <summary><h5>🛠️ Contact Me</h5></summary>
   <div align="center">
     <a href="https://t.me/Shadyashraf64">
       <img src="https://img.shields.io/badge/Telegram-Shadyashraf64-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
