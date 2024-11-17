@@ -1,15 +1,86 @@
-
 <h1 align="center"> 
   Hi , I'm Shady Ashraf 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+software-+Development,;Software+Engineer+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Software+Developer;Software+Engineering+Student;Active+Learner/Researcher;Love+to+Learn+New+Things..<3">
 </p>
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<details>
+  <summary><h4>🏆 Stats</h4></summary>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=shadyashraf174&theme=tokyonight&hide_border=false)  
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=shadyashraf174&theme=tokyo-night)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/shadyyyo0ashraf?theme=auto&font=baloo&extension=null) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+
+</div>
+
+</details>
+
+
+ 
+<details>
+  <summary><h4>📜 Academics</h4></summary>
+ 
+- **Degree:** Bachelor of Software Engineering  
+- **University:** Tomsk State University  
+- **GPA:** 4.2/5.0  
+- **Year:** 2026  
+- **Focus:** Software development
+   
+</details>
+
+
+ 
+
+<details>
+  <summary><h4>😄 Random Joke</h4></summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
+
+<details>
+  <summary><h4>💻 Languages I Use</h4></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
+  </div>
+</details>
+
+
+
+<details>
+  <summary><h4>🛠️ Contact Me</h4></summary>
+  <div align="center">
+    <a href="https://t.me/Shadyashraf64">
+      <img src="https://img.shields.io/badge/Telegram-Shadyashraf64-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    <a href="https://linkedin.com/in/shady-ashraf-443510259">
+      <img src="https://img.shields.io/badge/LinkedIn-Shady%20Ashraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </div>
+</details>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -23,18 +94,3 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/shadyashraf174/shadyashraf174/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=shadyashraf174&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=shadyashraf174&theme=tokyo-night)
-  </div>
-</details>
-
-</h1>
-
-
