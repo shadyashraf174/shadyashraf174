@@ -23,17 +23,42 @@
 </details>
 
 
- 
+
+
+<details>
+  <summary><h5>😄 Random Joke</h5></summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
+
+
 <details>
   <summary><h5>📜 Academics</h5></summary>
- 
-- **Degree:** Bachelor of Software Engineering  
-- **University:** Tomsk State University  
-- **GPA:** 4.2/5.0  
-- **Year:** 2026  
-- **Focus:** Software development
-   
+  <span>
+    <img src="https://img.shields.io/badge/Bachelor%20of%20Software%20Engineering-Tomsk%20State%20University-1877F2?style=for-the-badge">
+    <img src="https://img.shields.io/badge/GPA-4.2/5.0-EFEEE9?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Graduation%20Year-2026-FFD700?style=for-the-badge">
+  </span>
+  <p>Currently pursuing a Bachelor's degree in Software Engineering at Tomsk State University, focusing on modern software development practices and technologies.</p>
 </details>
+
+
+<details>
+  <summary><h5>💻 Languages I Use</h5></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
+  </div>
+</details>
+
 
 
 <details>
@@ -62,37 +87,15 @@
 </details>
 
 
- 
-
-<details>
-  <summary><h5>😄 Random Joke</h5></summary>
-  <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
-  </div>
-</details>
-
-<details>
-  <summary><h5>💻 Languages I Use</h5></summary>
-  <div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
-  </div>
-</details>
-
-
 
 <details>
   <summary><h5>🛠️ Contact Me</h5></summary>
   <div align="center">
     <a href="https://t.me/Shadyashraf64">
       <img src="https://img.shields.io/badge/Telegram-Shadyashraf64-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+     <a href="mailto:shadyyyo0ashraf@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-shadyashraf174-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://linkedin.com/in/shady-ashraf-443510259">
       <img src="https://img.shields.io/badge/LinkedIn-Shady%20Ashraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
