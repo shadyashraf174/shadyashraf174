@@ -26,7 +26,7 @@
 </h2>
 
 <details>
-  <summary><h5>🏆 Stats</h5></summary>
+  <summary><h6>🏆 Stats</h6></summary>
   <div align="center">
 
   ![](https://github-readme-stats.vercel.app/api?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=shadyashraf174&theme=tokyonight&hide_border=false)  
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-  <summary><h5>📜 Academics</h5></summary>
+  <summary><h4>📜 Academics</h4></summary>
   <span>
     <img src="https://img.shields.io/badge/Bachelor%20of%20Software%20Engineering-Tomsk%20State%20University-1877F2?style=for-the-badge">
     <img src="https://img.shields.io/badge/GPA-4.2/5.0-EFEEE9?style=for-the-badge">
@@ -57,7 +57,7 @@
 </details>
 
 <details>
-  <summary><h5>💻 Languages I Use</h5></summary>
+  <summary><h3>💻 Languages I Use</h3></summary>
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-  <summary><h5>🚀 Projects</h5></summary>
+  <summary><h2>🚀 Projects</h2></summary>
 
   #### <a href="https://github.com/shadyashraf174/portfolio">Portfolio Website</a>
   <span>
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-  <summary><h5>🛠️ Contact Me</h5></summary>
+  <summary><h1>🛠️ Contact Me</h1></summary>
   <div align="center">
     <a href="https://t.me/Shadyashraf64">
       <img src="https://img.shields.io/badge/Telegram-Shadyashraf64-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
