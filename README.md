@@ -1,4 +1,4 @@
-<h4 align="center"> 
+<h1 align="center"> 
   Hi, I'm Shady Ashraf 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
@@ -23,7 +23,7 @@
   />
 </picture>
 
-</h4>
+</h1>
 
 <details>
   <summary><h6>🏆 Stats</h6></summary>
