@@ -95,7 +95,7 @@
 </details>
 
 <details>
-  <summary><h1>🛠️ Contact Me</h1></summary>
+  <summary><h5>🛠️ Contact Me</h5></summary>
   <div align="center">
     <a href="https://t.me/Shadyashraf64">
       <img src="https://img.shields.io/badge/Telegram-Shadyashraf64-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
