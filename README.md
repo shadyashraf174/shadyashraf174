@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary><h5>😄 Random Joke</h5></summary>
+  <summary><h5>😄 Random Dev Joke</h5></summary>
   <div align="center">
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
