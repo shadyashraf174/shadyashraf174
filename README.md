@@ -26,7 +26,7 @@
 </h2>
 
 <details>
-  <summary><h6>🏆 Stats</h6></summary>
+  <summary><h5>🏆 Stats</h5></summary>
   <div align="center">
 
   ![](https://github-readme-stats.vercel.app/api?username=shadyashraf174&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=shadyashraf174&theme=tokyonight&hide_border=false)  
