@@ -78,6 +78,17 @@
 <details>
   <summary><h6>🚀 Projects</h6></summary>
 
+  #### <a href="https://github.com/shadyashraf174/TRWalks.API">TRWalks (Tomsk Russia Walks)</a>
+<span>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white">
+</span>
+- Developed a robust ASP.NET Core Web API for managing walking trails and regions in Tomsk, Russia.  
+- Implements CRUD operations, authentication, and data validation to ensure a secure and scalable backend.  
+- Features Entity Framework Core, Repository Pattern, and AutoMapper for efficient data handling.  
+- Supports filtering, sorting, and pagination to optimize user experience and data retrieval.  
+
   #### <a href="https://github.com/shadyashraf174/portfolio">Portfolio Website</a>
   <span>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
